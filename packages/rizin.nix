@@ -8,9 +8,9 @@
   lib,
   fetchFromGitHub,
   mesonTools,
-  rev ? "dcc825da7bc400dbe404938e39a944f7f5bd5add",
-  sha256 ? "sha256-cYukB1/UO9UQq0HY6ZXd4QmyuKk+NnZo0kJCIU1IKL4=",
-  mesonDepsSha256 ? "sha256-A2KvwVYC2q475ztk6zwpmMFxySSMHYsGP5BRTTa3Zd4=",
+  rev ? "dd618bb30a3ca7dea2f41d0c3e31d448d3070a1d",
+  sha256 ? "sha256-vQPGMLwdvCKfG5Q+802TqOwTf509lW6ABIZNhilhNGo=",
+  mesonDepsSha256 ? "sha256-uKChUKH3dbqJSMIw4ny4tCIGtlxDWHOd38Gj12NM1rc=",
   debug ? false,
   buildType ? if debug then "debug" else "release",
   ...
